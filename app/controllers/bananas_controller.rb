@@ -1,0 +1,2 @@
+class BananasController < ApplicationController
+end
